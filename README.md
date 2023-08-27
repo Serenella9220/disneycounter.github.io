@@ -3,10 +3,10 @@
 Questo è un progetto web che implementa un contatore Disney interattivo, con un tema grafico e sonoro ispirato ai personaggi e alle atmosfere Disney.
 
 
-![topolino](https://github.com/Serenella9220/disneycounter.github.io/assets/118180225/7616ca2e-2321-407e-9c32-c93986e74a10)
+![topolino](https://github.com/Serenella9220/disneycounter.github.io/assets/118180225/5873672b-932b-408b-8449-b6db011af3c3)
 
-![counter](https://github.com/Serenella9220/disneycounter.github.io/assets/118180225/7a8d2e0f-79ee-495e-99f5-a0d8d7a495c5)
 
+![Immagine 2023-08-25 125337](https://github.com/Serenella9220/disneycounter.github.io/assets/118180225/85f3d0af-683d-49b0-8551-a7953e2e1ad2)
 
 
 
